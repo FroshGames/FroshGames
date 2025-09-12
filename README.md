@@ -55,8 +55,8 @@
 
 - **Correo:** tu-email@example.com  
 - **Discord:** FroshGames#1234  
-- **X (Twitter):** [@TuUsuarioX](https://x.com/FroshGames22)  
-- **Patreon:** [patreon.com/TuPatreon](https://patreon.com/FroshGames)
+- **X (Twitter):** [@FroshGames22](https://x.com/FroshGames22)  
+- **Patreon:** [patreon.com/FroshGames](https://patreon.com/FroshGames)
 
 ---
 
