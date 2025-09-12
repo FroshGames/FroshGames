@@ -29,6 +29,7 @@
 ## 🛠️ Tecnologías y Lenguajes
 
 **Lenguajes principales:**  
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,10 +56,10 @@
 
 ## 📫 ¿Quieres contactarme?
 
-- **Correo:** froshy.froshycorp@gmail.com  
-- **Discord:** FroshGames#1234  
-- **X (Twitter):** [@FroshGames22](https://x.com/FroshGames22)  
-- **Patreon:** [patreon.com/FroshGames](https://patreon.com/FroshGames)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) froshy.froshycorp@gmail.com  
+- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) FroshGames#1234  
+- ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) [@FroshGames22](https://x.com/FroshGames22)  
+- ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white) [patreon.com/FroshGames](https://patreon.com/FroshGames)
 
 ---
 
