@@ -53,7 +53,7 @@
 
 ## 📫 ¿Quieres contactarme?
 
-- **Correo:** tu-email@example.com  
+- **Correo:** froshy.froshycorp@gmail.com  
 - **Discord:** FroshGames#1234  
 - **X (Twitter):** [@FroshGames22](https://x.com/FroshGames22)  
 - **Patreon:** [patreon.com/FroshGames](https://patreon.com/FroshGames)
