@@ -13,17 +13,6 @@
 - 💻 Experiencia en desarrollo de plugins, juegos y aplicaciones web.  
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.  
 - 🤝 Abierto a colaborar en proyectos interesantes.
-
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FroshGames&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroshGames&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
 ---
 
 ## 🛠️ Tecnologías y Lenguajes
@@ -43,6 +32,15 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+---
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FroshGames&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroshGames&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
 
 ---
 
