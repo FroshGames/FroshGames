@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy FroshGames</h1>
+7<h1 align="center">¡Hola! 👋 Soy FroshGames</h1>
 
 <p align="center">
   <b>Desarrollador de software, videojuegos y entusiasta de la tecnología</b><br>
@@ -47,8 +47,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroshGames&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes más usados de FroshGames" height="140">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FroshGames&theme=tokyonight" alt="Racha de contribuciones de FroshGames" height="180">
-</p>
+  
 
 ---
 
