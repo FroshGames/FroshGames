@@ -18,7 +18,8 @@
 
 ## 🛠️ Tecnologías y Lenguajes
 
-**Lenguajes principales:** <p>
+**Lenguajes principales:**  
+<p>
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -29,7 +30,8 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
-**Herramientas favoritas:** <p>
+**Herramientas favoritas:**  
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
@@ -40,13 +42,13 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=FroshGames&show_icons=true&theme=tokyonight&count_private=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FroshGames&layout=compact&theme=tokyonight&langs_count=8)
-
-<br>
-
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=FroshGames&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FroshGames&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de FroshGames" height="180">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroshGames&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes más usados de FroshGames" height="140">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FroshGames&theme=tokyonight" alt="Racha de contribuciones de FroshGames" height="180">
+</p>
 
 ---
 
