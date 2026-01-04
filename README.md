@@ -59,7 +59,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Froshy&show_icons=true&theme=radical)
+![Stats](github-readme-stats-chi-six-35.vercel.app/api?username=Froshy&show_icons=true&theme=radical)
 
 </div>
 ---
