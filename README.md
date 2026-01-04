@@ -58,8 +58,8 @@
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FroshGames&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroshGames&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Froshy&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froshy&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="langs" />
 </div>
 
 ---
