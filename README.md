@@ -42,11 +42,9 @@
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FroshGames&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de FroshGames" height="180">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroshGames&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes más usados de FroshGames" height="140">
-  <br>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
   
 
 ---
