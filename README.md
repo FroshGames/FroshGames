@@ -59,7 +59,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Froshy&show_icons=true&theme=radical)
 
 </div>
 ---
