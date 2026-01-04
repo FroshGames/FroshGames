@@ -58,10 +58,10 @@
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Froshy&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froshy&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="langs" />
-</div>
 
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+</div>
 ---
 
 ## 💡 Mi aportación en GitHub
