@@ -43,12 +43,12 @@
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://github.com/FroshGames">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FroshGames&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estadísticas de GitHub de FroshGames" />
-  </a>
-  <a href="https://github.com/FroshGames?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroshGames&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" alt="Lenguajes más usados por FroshGames" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FroshGames&theme=github_dark" alt="Estadísticas de GitHub de FroshGames" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FroshGames&theme=github_dark" alt="Lenguajes más usados por FroshGames" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FroshGames&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones de FroshGames" />
 </p>
 
 ---
