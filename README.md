@@ -76,7 +76,6 @@
   <img src="https://img.shields.io/badge/GDSCRIPT-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript" />
   <img src="https://img.shields.io/badge/UNITY-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/UNREAL-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal" />
   <img src="https://img.shields.io/badge/VULKAN-E60019?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
 </p>
 
