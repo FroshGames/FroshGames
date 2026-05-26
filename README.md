@@ -93,6 +93,8 @@
 - 📊 **Enfoque:** Mi actividad se distribuye principalmente entre desarrollo de juegos y backend.
 - 🛠️ **Comunidad:** Colaborando y aprendiendo activamente dentro del mundo open-source.
 
+- 🛠️ **Repositorios** El 90% de mis repositorios estan en privado por privacidad de los mismos
+
 ---
 
 ## 📫 ¿Quieres contactarme?
