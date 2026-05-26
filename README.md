@@ -1,18 +1,50 @@
+<div>
 <h1 align="center">¡Hola! 👋 Soy FroshGames</h1>
 
 <p align="center">
-  <b>Desarrollador de software, videojuegos y entusiasta de la tecnología</b><br>
-  <i>¡Bienvenid@ a mi portfolio en GitHub!</i>
+  <img src= "https://img.shields.io/badge/Role-Software_Developer_%7C_CEO-blue?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Systems_%7C_Web_%7C_Game_Dev-purple?style=flat-square" alt="Focus" />
 </p>
+
+<p> <i>
+  > Desarrollador independiente enfocado en la creación de herramientas eficientes, arquitectura de software, desarrollo de videojuegos y sistemas low-level. Me apasiona construir ecosistemas modulares y optimizados desde cero.
+</p>
+<div/>
 
 ---
 
-## 🚀 Sobre mí
-
-- 🎮 Amante del desarrollo de videojuegos y la programación creativa.
-- 💻 Experiencia en desarrollo de plugins, juegos y aplicaciones web.
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
-- 🤝 Abierto a colaborar en proyectos interesantes.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📍 Datos Básicos</h3>
+      <p align="left">
+        👤 &nbsp; <b>Nombre:</b> Froshy<br/>
+        🎂 &nbsp; <b>Edad:</b> [23] años<br/>
+        🌍 &nbsp; <b>Nacionalidad:</b> [España]<br/>
+        💼 &nbsp; <b>Especialidad:</b> Arquitectura de Software & Systems
+      </p>
+      <h3>✨ Intereses</h3>
+      <p align="left">
+        🎮 &nbsp; Amante del desarrollo de videojuegos y la programación creativa.<br/>
+        🌱 &nbsp; Siempre aprendiendo y explorando tecnologías low-level.<br/>
+        🤝 &nbsp; Abierto a colaborar en proyectos de código abierto interesantes.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Ecosistema y Organizaciones</h3>
+      <p align="left">
+        👑 <b>FroshyCorp / Froshy Games</b> — <i>Founder & CEO</i><br/>
+        Organización principal y marca matriz dedicada al desarrollo integral de software. Abarca soluciones tecnológicas modulares, herramientas web y un estudio independiente especializado en videojuegos y modding/plugins de alto rendimiento.
+      </p>
+      <br/>
+      <p align="left">
+        🎨 <b>MialuStudio</b> — <i>COCEO & Lead Deveoper</i><br/>
+        Estudio de Gestión de Series y eventos para minecraft
+        <b> MinemuHosting </b> parners
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,6 +68,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/BUN-000000?style=for-the-badge&logo=bun&logoColor=F9F1E7">
 </p>
 
 ---
