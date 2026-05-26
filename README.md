@@ -50,8 +50,6 @@
 
 ## 🛠️ Tecnologías y Lenguajes
 
-## 🛠️ Tecnologías y Lenguajes
-
 ### 🌐 Desarrollo Web & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/ASTRO-2C2052?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
