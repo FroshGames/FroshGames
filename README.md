@@ -33,14 +33,14 @@
     <td width="50%" valign="top">
       <h3>🏢 Ecosistema y Organizaciones</h3>
       <p align="left">
-        👑 <b>FroshyCorp / Froshy Games</b> — <i>Founder & CEO</i><br/>
+        👑 <b>FroshyCorp</b> — <i>Founder & CEO</i><br/>
         Organización principal y marca matriz dedicada al desarrollo integral de software. Abarca soluciones tecnológicas modulares, herramientas web y un estudio independiente especializado en videojuegos y modding/plugins de alto rendimiento.
       </p>
       <br/>
       <p align="left">
         🎨 <b>MialuStudio</b> — <i>COCEO & Lead Deveoper</i><br/>
         Estudio de Gestión de Series y eventos para minecraft
-        <b> MinemuHosting </b> parners
+        <b> MinemuHosting </b> partners
       </p>
     </td>
   </tr>
