@@ -110,7 +110,6 @@
 - 🏆 **Constante crecimiento:** Revisa mis estadísticas arriba para ver mis contribuciones en tiempo real.
 - 📊 **Enfoque:** Mi actividad se distribuye principalmente entre desarrollo de juegos y backend.
 - 🛠️ **Comunidad:** Colaborando y aprendiendo activamente dentro del mundo open-source.
-
 - 🛠️ **Repositorios** El 90% de mis repositorios estan en privado por politicas de la empresa
 
 ---
