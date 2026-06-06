@@ -38,7 +38,7 @@
       </p>
       <br/>
       <p align="left">
-        🎨 <b>MialuStudio</b> — <i>COCEO & Lead Deveoper</i><br/>
+        🎨 <b>MialuStudio</b> — <i>CEO & Lead Deveoper</i><br/>
         Estudio de Gestión de Series y eventos para minecraft
         <b> MinemuHosting </b> partners
       </p>
